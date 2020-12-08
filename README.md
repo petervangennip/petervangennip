@@ -1,13 +1,8 @@
-### Hi, I'm Peter van Gennip ✌️
+## Hi, I'm Peter van Gennip ✌️
 
 I work as senior front-end developer with a main focus on UI &UX. I´m based in Best, The Netherlands.
 
 I love stuff like HTML, CSS, design patterns, component libraries, CSS architecture, accessibility, animation and people in general.
-
-
-
-
-# Hi there! 👋🏻
 
 
 **GitHub Stats**
