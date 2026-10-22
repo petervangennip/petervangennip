@@ -18,7 +18,7 @@ automatisch uit deze datums opgebouwd. UI-teksten staan in `i18n/locales/`.
 
 ## Configuratie
 
-- `NUXT_PUBLIC_SITE_URL` — productie-URL voor canonical, hreflang en JSON-LD (default `https://petervangennip.nl`).
+- `NUXT_PUBLIC_SITE_URL` — productie-URL voor canonical, hreflang en JSON-LD (default `https://www.petervangennip.com`).
 
 ## Deploy
 
