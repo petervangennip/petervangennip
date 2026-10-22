@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "title": "Peter van Gennip, Lead Frontend Developer",
+    "description": "Digitaal cv van Peter van Gennip: Lead Frontend Developer met 20+ jaar ervaring in front-end architectuur, design systems, accessibility en het aansturen van developmentteams."
+  },
+  "skipLink": "Ga naar de inhoud",
+  "toolbar": {
+    "label": "Paginaopties",
+    "language": "English",
+    "languageLabel": "Bekijk dit cv in het Engels",
+    "themeToDark": "Donker thema",
+    "themeToLight": "Licht thema",
+    "print": "Afdrukken"
+  },
+  "sections": {
+    "profile": "Profiel",
+    "timeline": "Loopbaan",
+    "timelineCaption": "Werk en opleiding van {from} tot nu. Kies een regel voor de details.",
+    "experience": "Werkervaring",
+    "earlyCareer": "Vroege carrière",
+    "skills": "Vaardigheden",
+    "education": "Opleidingen",
+    "languages": "Talen",
+    "contact": "Contact"
+  },
+  "timeline": {
+    "work": "Werk",
+    "education": "Opleiding",
+    "ongoing": "loopt nog"
+  },
+  "contact": {
+    "linkedin": "LinkedIn",
+    "location": "Woonplaats"
+  },
+  "date": {
+    "present": "heden"
+  },
+  "footer": {
+    "updated": "Bijgewerkt {date}"
+  }
+}
